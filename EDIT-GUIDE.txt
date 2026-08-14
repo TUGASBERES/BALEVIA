@@ -1,0 +1,103 @@
+BALEVA — WEBSITE KHUSUS MITRA
+=================================
+
+PENTING:
+Website ini BUKAN untuk reservasi wisatawan.
+Reservasi wisatawan dilakukan melalui aplikasi BALEVA yang terpisah.
+
+Website ini hanya untuk:
+- menjelaskan siapa BALEVA
+- menjelaskan cara BALEVA bekerja dengan partner
+- menjelaskan partner program
+- menampilkan partner resmi
+- menjelaskan 4 penanggung jawab
+- menjelaskan standar & commitment
+- menerima calon mitra baru
+
+HALAMAN:
+1. index.html
+2. about-baleva.html
+3. how-we-operate.html
+4. partner-program.html
+5. our-partners.html
+6. responsible-team.html
+7. standards-commitment.html
+8. join-baleva.html
+
+=================================
+DATA GLOBAL — EDIT SEKALI
+=================================
+
+Buka:
+EDIT-DATA.js
+
+Di sana Anda dapat mengganti:
+- Nomor WhatsApp (sudah 087781998529)
+- Email
+- Nama Penanggung Jawab 01
+- Nama Penanggung Jawab 02
+- Nama Penanggung Jawab 03
+- Nama Penanggung Jawab 04
+- Lokasi kantor
+
+=================================
+FOTO
+=================================
+
+Logo:
+assets/images/baleva-logo.png
+
+Partner 01:
+assets/images/partner-01.jpg
+
+Penanggung Jawab 01:
+assets/images/team-01.jpg
+
+Penanggung Jawab 02:
+assets/images/team-02.jpg
+
+Penanggung Jawab 03:
+assets/images/team-03.jpg
+
+Penanggung Jawab 04:
+assets/images/team-04.jpg
+
+Hero:
+assets/images/hero-ntb.jpg
+
+Untuk mengganti foto:
+1. Siapkan foto baru.
+2. Gunakan nama file yang sama.
+3. Timpa file lama.
+Tidak perlu mengubah HTML.
+
+=================================
+EDIT NAMA MITRA
+=================================
+
+Buka:
+our-partners.html
+
+Tekan Ctrl + F
+Cari:
+NAMA MITRA 01
+
+Ganti dengan nama partner resmi.
+
+=================================
+CARA BUKA
+=================================
+
+Untuk melihat:
+klik dua kali index.html
+
+Untuk mengedit:
+klik kanan file > Open with > Notepad
+
+=================================
+JANGAN DIUBAH
+=================================
+
+assets/css/style.css
+
+kecuali Anda memang ingin mengubah desain.
